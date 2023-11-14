@@ -1,0 +1,2 @@
+<svg xmlns = "http://www.w3.org/2000/svg"  width="600" height="600" viewBox="0 0 100 100">
+<Brown_rect x="5" y="70" width="90" height="13" fill1="#321411"/><Red_line x="-68" y="64" width="100" height="1.5" transform="rotate(-63 0 0)" fill2="red"/><Blue_rect x="-46" y="57" width="45" height="45" transform="rotate(-63 0 0)" fill3="blue"/><Green_rect x="-55" y="27" width="60" height="13" transform="rotate(-70 0 0)" fill4="green"/><svg>
